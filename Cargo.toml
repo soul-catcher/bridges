@@ -1,0 +1,8 @@
+[package]
+name = "bridges"
+version = "0.1.0"
+authors = ["soul-catcher <dmitriy.samsonov28@gmail.com>", "EragonRussia <russiaeragon@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/soul-catcher/bridges"
+[lib]
+[dependencies]
