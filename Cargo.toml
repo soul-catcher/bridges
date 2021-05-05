@@ -6,3 +6,4 @@ edition = "2018"
 repository = "https://github.com/soul-catcher/bridges"
 [lib]
 [dependencies]
+time = "0.2.26"
